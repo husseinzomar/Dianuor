@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Monokai Pro",
+    "workbench.preferredDarkColorTheme": "Monokai Pro",
+    "workbench.preferredHighContrastColorTheme": "Monokai Pro",
+    "workbench.preferredLightColorTheme": "Monokai Pro",
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "dart.previewFlutterUiGuides": true,
+    "better-comments.highlightPlainText": true
+}
